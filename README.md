@@ -5,17 +5,17 @@
 * Additionally using Streamlit to create a basic website and then embed the model in it.
 ___
 To clone the project to your local machine, use the following command:
-```bash ````
+```bash 
 git clone https://github.com/trungit03/Discharge_Flow_Prediction.git
-```` ``` ````
-cd Discharge_Flow_Prediction
+```
 ___
 Then, install the required libraries using the following command:
 ```bash
 pip install requirements.txt
-cd repo
+```
 ___
 To run web.py, use the following command:
 ```bash
 streamlit run web.py
+```
 
