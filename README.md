@@ -7,7 +7,7 @@ ___
 To clone the project to your local machine, use the following command:
 ```bash
 git clone https://github.com/trungit03/Discharge_Flow_Prediction.git
-cd repo
+cd Discharge_Flow_Prediction
 ___
 Then, install the required libraries using the following command:
 ```bash
